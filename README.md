@@ -1,1 +1,11 @@
 ### All AI related Projects including implementation of Research Paper mostly on unstructured Data.
+- Text Autocompletion with LSTM using beam search
+- Visual story telling with speech using Gated Recurrent Neural Networks
+- Controlnet Implementation in pytorch
+- Image Compression using K-means Clustering Algorithm
+- Machine Translation using Sequence to Sequence Models
+- Aadhar Card Verification
+- ReadMyLips: Using Computer Vision and Deep Learning to Decode Lip Movements into Text
+- Voice Cloning
+- Lyrics to Music Generation
+- Voice Changing in Music
